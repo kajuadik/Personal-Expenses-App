@@ -1,16 +1,15 @@
-# flutter_app
 
-A new Flutter project.
+Welcome to the Personal Expenses Flutter Project!
 
-## Getting Started
+This is a simple project that helps you keep track of your personal expenses. With this app, you can add new transactions, categorize them, and view your expense history.
 
-This project is a starting point for a Flutter application.
+Getting Started
+To use this project, you'll need to have Flutter installed on your computer. If you haven't installed Flutter yet, please follow the official installation guide.
 
-A few resources to get you started if this is your first Flutter project:
+Usage
+When you run the app, you'll see the home screen with a list of your expenses. To add a new expense, simply click on the "+" button in the top right corner of the screen. You'll be taken to a form where you can enter the amount, select a date, and choose a category for your expense.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Once you've added your expense, you can view it on the home screen along with your other expenses. You can also filter your expenses by category or by date.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Acknowledgments
+This project was inspired by the Flutter course on Udemy by Maximilian Schwarzmüller. Thanks to Max for his excellent teaching and guidance.
